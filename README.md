@@ -26,6 +26,9 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IL**
 
+![5 dia il](https://github.com/user-attachments/assets/d60a718c-730e-481c-b59a-23875a93d5d5)
+
+
 
 **To measure RTh or RN**
 
