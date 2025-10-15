@@ -43,6 +43,13 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 ![no eq](https://github.com/user-attachments/assets/311ff744-056d-4fa8-925f-75a890a324cb)
 
+**TABULAR COLUMN: 1**
+
+![exp 5 tab](https://github.com/user-attachments/assets/11979fe2-5253-4f5a-b98e-050ba0f832e1)
+
+**MODEL CALCULATION:**
+
+![exp 5 calc](https://github.com/user-attachments/assets/cac44a3f-302a-4a6a-91f3-a71f12a11b03)
 
 
 **PROCEDURE:**
@@ -75,13 +82,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-
-![exp 5 tab](https://github.com/user-attachments/assets/11979fe2-5253-4f5a-b98e-050ba0f832e1)
-
-**MODEL CALCULATION:**
-
-![exp 5 calc](https://github.com/user-attachments/assets/cac44a3f-302a-4a6a-91f3-a71f12a11b03)
 
 
 **MARK SPLIT UP:**
